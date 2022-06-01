@@ -1,0 +1,6 @@
+framework module Pods_mod15 {
+  umbrella header "Pods-mod15-umbrella.h"
+
+  export *
+  module * { export * }
+}
